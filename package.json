@@ -1,0 +1,28 @@
+{
+  "name": "spawn-async-promise",
+  "version": "1.0.0",
+  "description": "child_process.spawn() meets Promise",
+  "main": "spawn-async-promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rentzsch/spawn-async-promise.git"
+  },
+  "keywords": [
+    "child_process",
+    "spawn",
+    "async",
+    "promise"
+  ],
+  "author": "Jonathan 'Wolf' Rentzsch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rentzsch/spawn-async-promise/issues"
+  },
+  "homepage": "https://github.com/rentzsch/spawn-async-promise#readme",
+  "dependencies": {
+    "bluebird": "^3.0.5"
+  }
+}
